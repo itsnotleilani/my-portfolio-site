@@ -24,9 +24,12 @@ To install the project, follow these steps:
 **Linux and macOS**:
 ```bash
 sudo git clone https://github.com/itsnotleilani/my-portfolio-site.git
+```
 
-Windows:
+**Windows:
+```bash
 git clone https://github.com/itsnotleilani/my-portfolio-site.git
+```
 
 ## License
 
