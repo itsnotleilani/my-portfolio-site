@@ -9,6 +9,7 @@ This is a personal portfolio site that was originally based on the [vCard - Pers
 - Easy to customize for personal use
 
 ## Demo
+https://itsnotleilani.github.io/my-portfolio-site/
 <img width="1299" alt="Screenshot 2025-03-07 at 1 14 22 AM" src="https://github.com/user-attachments/assets/7e89b052-77a0-4963-8343-b18641aca76f" />
 
 ## Prerequisites
