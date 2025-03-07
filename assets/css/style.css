@@ -111,9 +111,12 @@
 
 }
 
-
-
-
+.fixed-size-image {
+  width: 600px;
+  height: 451px;
+  object-fit: cover; /* Ensures the image maintains aspect ratio */
+  object-position: center; /* Centers the cropped portion */
+}
 
 /*-----------------------------------*\
   #RESET
@@ -281,6 +284,9 @@ article.active {
   box-shadow: var(--shadow-2);
   cursor: pointer;
   z-index: 1;
+  
+  height: auto; /* Let it expand based on content */
+  min-height: 200px
 }
 
 .content-card::before {
@@ -578,6 +584,7 @@ main {
   scroll-snap-type: inline mandatory;
 }
 
+
 .testimonials-item {
   min-width: 100%;
   scroll-snap-align: center;
@@ -604,7 +611,7 @@ main {
   line-clamp: 4;
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 
@@ -1878,5 +1885,22 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+
+
+  /* MY STUFF */
+
+  /* Style to display a dot using ::before */
+  .dot {
+    position: relative;
+    display: inline-block;
+    margin-right: 0em; /* Optional: Adjust the space between the dot and text */
+  }
+
+  .dot::before {
+    content: '\2022'; /* Unicode character for a bullet (•) */
+    color: white;
+    font-size: 1.5em; /* Optional: Adjust the size of the dot */
+    vertical-align: middle; /* Align the dot vertically with the text */
+  }
 
 }
