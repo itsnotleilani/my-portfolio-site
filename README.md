@@ -9,7 +9,7 @@ This is a personal portfolio site that was originally based on the [vCard - Pers
 - Easy to customize for personal use
 
 ## Demo
-<img width="1475" alt="Screenshot 2025-03-06 at 9 35 03 PM" src="https://github.com/user-attachments/assets/e0296495-0a37-476f-8159-a06619c50a55" />
+<img width="1299" alt="Screenshot 2025-03-07 at 1 14 22 AM" src="https://github.com/user-attachments/assets/7e89b052-77a0-4963-8343-b18641aca76f" />
 
 ## Prerequisites
 
