@@ -1,48 +1,34 @@
-<<<<<<< HEAD
-# my-portfolio-site
-=======
-# vCard - Personal portfolio
+# My Portfolio Site
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is a personal portfolio site that was originally based on the [vCard - Personal Portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) project. I have customized it with my own style and features.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Features
+
+- Fully responsive design for all devices
+- Built using HTML, CSS, and JavaScript
+- Easy to customize for personal use
 
 ## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- [vCard Desktop Demo](#)
+- [vCard Mobile Demo](#)
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- Git must be installed on your operating system.
 
 ## Installing vCard
 
-To install **vCard**, follow these steps:
+To install the project, follow these steps:
 
-Linux and macOS:
-
+**Linux and macOS**:
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+sudo git clone https://github.com/itsnotleilani/my-portfolio-site.git
 
 Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+git clone https://github.com/itsnotleilani/my-portfolio-site.git
 
 ## License
 
 MIT
->>>>>>> master
