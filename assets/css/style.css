@@ -342,6 +342,13 @@ main {
   border-radius: 20px;
 }
 
+/* .avatar-box img {
+  width: 140px;
+  height: 150px;
+  object-fit: cover; 
+  transform: scale(1.5); 
+} */
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
